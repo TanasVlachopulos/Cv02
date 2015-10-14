@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cv02</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bmi">BmiActivity</string>
+    <string name="zpet">Zpět</string>
+    <string name="info">Info</string>
+    <string name="vyfotit">Vyfotit</string>
+</resources>
